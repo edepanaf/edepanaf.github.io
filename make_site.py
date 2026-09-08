@@ -275,7 +275,7 @@ def build(entries):
     exact enumeration of satisfiable 2-SAT formulas, cluster graphs and modularity,
     active clustering, and the manipulability of voting rules all use the same tools.</p>
     <p>I am the main coordinator of the ANR project PROSOC on probability and social
-    choice, and the local coordinator at Nokia of the European MSCA-RISE project
+    choice, submitted in 2026 and in the waiting list, and was the local coordinator at Nokia of the European MSCA-RISE project
     RandNET on random graphs and networks.</p>
   </div>
 </section>
