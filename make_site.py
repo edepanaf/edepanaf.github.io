@@ -249,8 +249,7 @@ def build(entries):
   <p class="lede">I work in analytic combinatorics: encoding discrete structures by
   generating functions, and reading their asymptotics off the analytic behaviour of
   those functions. I apply it to the enumeration and typical structure of random
-  graphs, and to the analysis of algorithms, chiefly in computational social choice
-  and clustering.</p>
+  graphs, and to the analysis of algorithms.</p>
   <ul class="contact">
     <li><a href="mailto:depanafieuelie@gmail.com">depanafieuelie@gmail.com</a></li>
     <li><a href="cv.pdf">Curriculum vitae (PDF)</a></li>
